@@ -1,0 +1,8 @@
+cffi==1.17.1
+cryptography==45.0.4
+dotenv==0.9.9
+pycparser==2.22
+python-dotenv==1.1.0
+pytz==2025.2
+setuptools==78.1.1
+wheel==0.45.1
